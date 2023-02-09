@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    height: 500px;
+}
+#Card-image {
+    height: 200px !important;
+}
